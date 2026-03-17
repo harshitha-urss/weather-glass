@@ -75,7 +75,7 @@ https://weatherglass-harsha.netlify.app/
 ## Interface
 
 <p align="center">
-  <img src="assets/interface.jpeg" width="400">
+  <img src="assets/interface.jpeg" width="300">
 </p>
 
 ---
@@ -83,7 +83,7 @@ https://weatherglass-harsha.netlify.app/
 ## Search Input
 
 <p align="center">
-  <img src="assets/search.jpeg" width="400">
+  <img src="assets/search.jpeg" width="300">
 </p>
 
 ---
@@ -91,7 +91,7 @@ https://weatherglass-harsha.netlify.app/
 ## Weather Output
 
 <p align="center">
-  <img src="assets/output.jpeg" width="400">
+  <img src="assets/output.jpeg" width="300">
 </p>
 
 ---
@@ -99,7 +99,7 @@ https://weatherglass-harsha.netlify.app/
 ## System Architecture
 
 <p align="center">
-  <img src="assets/architecture.png" width="600">
+  <img src="assets/architecture.png" width="300">
 </p>
 
 ---
