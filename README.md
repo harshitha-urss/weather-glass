@@ -142,18 +142,28 @@ The application delivers:
 
     weather-glass/
     │
-    ├── assets/
+    ├── assets/                # Images used for project documentation
     │   ├── interface.jpeg
     │   ├── search.jpeg
     │   ├── output.jpeg
     │   └── architecture.png
     │
-    ├── index.html
-    ├── style.css
-    ├── script.js
+    ├── public/                # Static public files
+    ├── src/                   # React source code (components, logic)
     │
-    └── README.md
-
+    ├── index.html             # Entry HTML file
+    ├── style.css              # Styling (if used separately)
+    ├── script.js              # JavaScript logic (if applicable)
+    │
+    ├── package.json           # Project dependencies and scripts
+    ├── package-lock.json      # Dependency lock file
+    ├── vite.config.js         # Vite configuration
+    ├── eslint.config.js       # ESLint configuration
+    │
+    ├── .env                   # Environment variables (API keys)
+    ├── .gitignore             # Git ignore rules
+    │
+    └── README.md              # Project documentation
 ---
 
 ## Author
